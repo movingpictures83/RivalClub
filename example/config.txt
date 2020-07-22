@@ -1,0 +1,2 @@
+Prefix plugins/RivalClub/example
+Plugin RivalClub inputfile network.csv outputfile network.rivalclubs.csv
